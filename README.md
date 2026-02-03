@@ -15,8 +15,8 @@ If you have any questions about my projects or are interested in business cooper
 <div style="flex-direction: row; flex-wrap: wrap; gap: 5px">
   <a href="mailto:mail@mmq.dev"><img width="40px" src="./assets/mail.png" alt="mail"/></a>
   <a href="https://discord.com/users/556392934904430593"><img width="40px" src="./assets/discord.png" alt="discord"/></a>
-  <a href="https://x.com/mmqnym"><img width="40px" src="./assets/twitter.png" alt="x platform"/></a>
-  <a href="https://t.me/mmqnym"><img width="40px" src="./assets/telegram.png" alt="telegram"/></a>
+  <a href="https://x.com/mmqeth"><img width="40px" src="./assets/twitter.png" alt="x platform"/></a>
+  <a href="https://t.me/mmqeth"><img width="40px" src="./assets/telegram.png" alt="telegram"/></a>
   <a href="./assets/wechat_p.png"><img width="40px" src="./assets/wechat.png" alt="wechat"/></a>
 </div>
 
@@ -25,14 +25,14 @@ If you have any questions about my projects or are interested in business cooper
 ## 📌 &nbsp;Past product
 
 <div style="flex-direction: row; flex-wrap: wrap; gap: 5px">
-  <a href="https://github.com/mmqnym/quickcerts"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=quickcerts&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/NFT-Market-Sniper"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=NFT-Market-Sniper&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/Pwdport"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Pwdport&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/Currency-Bot-using-Line-API"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Currency-Bot-using-Line-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/Discord-NFT-Verifier-Client"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Discord-NFT-Verifier-Client&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/Discord-NFT-Verifier-Server"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Discord-NFT-Verifier-Server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/Learning"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/PolyME"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=PolyME&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqeth/quickcerts"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqeth&repo=quickcerts&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqeth/NFT-Market-Sniper"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqeth&repo=NFT-Market-Sniper&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqeth/Pwdport"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqeth&repo=Pwdport&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqeth/Currency-Bot-using-Line-API"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqeth&repo=Currency-Bot-using-Line-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqeth/Discord-NFT-Verifier-Client"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqeth&repo=Discord-NFT-Verifier-Client&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqeth/Discord-NFT-Verifier-Server"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqeth&repo=Discord-NFT-Verifier-Server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqeth/Learning"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqeth&repo=Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqeth/PolyME"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqeth&repo=PolyME&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   
 </p>
 
@@ -118,7 +118,7 @@ If you have any questions about my projects or are interested in business cooper
 ## 📊 &nbsp;Stats
 
 <div style="flex-direction: row; flex-wrap: wrap; gap: 5px">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="mmqnym_stats"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="mmqeth_stats"/>
 </div>
 
 &nbsp;
